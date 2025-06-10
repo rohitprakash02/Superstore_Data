@@ -66,8 +66,9 @@ A critical geographical challenge was identified, with a particular state heavil
 
 ![Profit Performance by State - Africa Region](image_0167f5.png)
 
-### D. Operational Efficiency: Order Fulfillment Time
-Understanding the average time taken for order fulfillment by shipping mode provides insights into logistics.
+### Discount Impact on Profitability
+
+Analysis reveals a critical disparity in profitability: Orders without discounts contribute significantly to profit (USD 1,608,616.74), while discounted orders result in a substantial loss (-USD 139,581.91), indicating the current discounting strategy is detrimental.
 
 ![Order Fulfillment Time by Shipping Mode](image_016399.png)
 
